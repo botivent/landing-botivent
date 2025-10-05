@@ -1,7 +1,7 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  outputFileTracingRoot: "/Users/gabrisp/Desktop/botivent.com/landing",
 };
 
 export default nextConfig;

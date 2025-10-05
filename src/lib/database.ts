@@ -160,7 +160,7 @@ export type Database = {
         Row: {
           created_at: string | null
           id: string
-          integration_id: Integrations['row'] | null | string
+          integration_id: string | null
           is_active: boolean | null
           title: string
         }

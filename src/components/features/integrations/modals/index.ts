@@ -1,0 +1,5 @@
+export { WhatsAppModal } from './whatsapp-modal'
+export { FacebookMessengerModal } from './facebook-messenger-modal'
+export { InstagramModal } from './instagram-modal'
+export { TelegramModal } from './telegram-modal'
+export { SMSTwilioModal } from './sms-twilio-modal'
